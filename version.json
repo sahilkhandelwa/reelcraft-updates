@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "1.1",
-  "url": "https://github.com/sahilkhandelwa/reelcraft-updates/releases/download/v1.1/ReelCraft.apk",
-  "notes": "First release \u2014 AdMob rewarded ads + in-app updater",
+  "version_code": 3,
+  "version_name": "1.2",
+  "url": "https://github.com/sahilkhandelwa/reelcraft-updates/releases/download/v1.2/ReelCraft.apk",
+  "notes": "ReelCraft 1.2 update",
   "force": true
 }
